@@ -32,4 +32,4 @@ six==1.12.0
 traitlets==4.3.2
 urllib3==1.24.2
 us==1.0.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
